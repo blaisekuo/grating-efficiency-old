@@ -37,3 +37,7 @@ monochromator_pos5_nosplitter_run28 - 22/10/2018 - PD1 at pos5 - no splitter 0.0
 543nm_beamspliitercal_run30 - 23/10/2018 - PD1 infront of grating after beam splitter - PD2 90 off 90 from beam splitter - 0.05 sec interval, 1 mW scale
 633_laser_cal_run31 - 23/10/2018 - PD1 infront of grating - PD2 off - no splitter, 0.05 sec innterval, 1mW scale
 633nm_beamspliitercal_run32 - 23/10/2018 - PD1 infront of grating after beam splitter - PD2 90 off 90 from beam splitter - 0.05 sec interval, 1 mW scale
+monochromator_beamsplit_run33 - 24/10/2018 - PD1 close to grating - PD2 90 degree refectance - 0.5 sec interval, 10 microW scale, set to 543 nm at peak efficiency
+monochromatro_beamsplit_run34 - 24/10/2018 - PD1 close to grating - PD2 90 degree reflectance - 0.5 sec interval 10 microW scale, set to 543 nm range through 
+monochromator_beamspplittyercal_run35
+monochromator_lasercal_run36
